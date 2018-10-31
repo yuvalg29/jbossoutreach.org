@@ -1,2 +1,2 @@
 # jbossoutreach.org:
-Home website for JBoss-Outreach.
+The official website for JBoss-Outreach.
